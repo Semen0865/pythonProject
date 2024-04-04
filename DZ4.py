@@ -33,4 +33,4 @@ class HiddenMathOperation:
 
 # Приклад використання
 number = HiddenMathOperation(10)
-number.display_result(
+number.display_result()
